@@ -2,7 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 태그
-- [211006 / Wordcloud, Visualize by Map(Kakao API), Word selection](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211006.md)
+- [211006 / Wordcloud, Map Visualization(Kakao API), Word selection](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211006.md)
 - [211005 / Instagram Crawling, Regex](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211005.md)
 - [211004 / Data Analysis Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211004.md)
 - [211003 / Web Crawling, Visualizing(plt.pie)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211003.md)
