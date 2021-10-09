@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211009 / Danawa Crawling](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211009.md)
 - [211008 / Map Visualization(Starbucks)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211008.md)
 - [211007 / Web Crawling(Starbucks)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211007.md)
 - [211006 / Wordcloud, Map Visualization(Kakao API), Word selection](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211006.md)
