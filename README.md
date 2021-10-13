@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211013 / Machine Learning Tutorial(Temperature prediction)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211013.md)
 - [211012 / Machine Learning Tutorial(Temperature prediction)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211012.md)
 - [211011 / Machine Learning Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211011.md)
 - [211010 / Danawa Data analysis(Scatter plot)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211010.md)
