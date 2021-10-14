@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211014 / OpenCV Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211014.md)
 - [211013 / Finding Algorithm, OpenCV Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211013.md)
 - [211012 / Machine Learning Tutorial(Temperature prediction)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211012.md)
 - [211011 / Machine Learning Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211011.md)
