@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211016 / Over the Wire Writeup(Level0 ~ Level10)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211016.md)
 - [211015 / OpenCV Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211015.md)
 - [211014 / OpenCV Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211014.md)
 - [211013 / Finding Algorithm, OpenCV Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211013.md)
