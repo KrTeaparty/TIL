@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211022 / Review C(comment, variable)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211022.md)
 - [211021 / Over the Wire Writeup(Level30 ~ Level33)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211021.md)
 - [211020 / Over the Wire Writeup(Level25 ~ Level29)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211020.md)
 - [211019 / Over the Wire Writeup(Level23 ~ Level24)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211019.md)
