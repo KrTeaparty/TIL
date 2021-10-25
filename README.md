@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211025 / Review C(pointer, string, array)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211025.md)
 - [211024 / Review C(for, while, break, continue, goto, pointer)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211024.md)
 - [211023 / Review C(variables, if, switch, operator)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211023.md)
 - [211022 / Review C(comment, variable)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211022.md)
