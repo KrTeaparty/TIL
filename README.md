@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211101 / Review C(macros, storage class specifier)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211101.md)
 - [211031 / Review C(file io, bubble sort, quick sort)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211031.md)
 - [211030 / Review C(function)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211030.md)
 - [211029 / Review C(function)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211029.md)
