@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211107 / Python A to Z(Chapter14 ~ 15)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211107.md)
 - [211105 / Python A to Z(Chapter12 ~ 13)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211105.md)
 - [211104 / Python A to Z(Chapter10 ~ 11)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211104.md)
 - [211103 / Python A to Z(Chapter5 ~ 9)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211103.md)
