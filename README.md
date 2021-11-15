@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211115 / Python A to Z(chain, special method)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211115.md)
 - [211113 / Python A to Z(meta class, life cycle, method)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211113.md)
 - [211112 / Python A to Z(decorator, module)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211112.md)
 - [211111 / Python A to Z(function, expression, function attr)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211111.md)
