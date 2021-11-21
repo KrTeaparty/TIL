@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211121 / Using Riot Open API](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211121.md)
 - [211120 / Python A to Z(stdin, stdout, file i/o)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211120.md)
 - [211119 / Python A to Z(abstract class, exception, warning, assert)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211119.md)
 - [211118 / Python A to Z(decorator, Descriptor, property)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211118.md)
