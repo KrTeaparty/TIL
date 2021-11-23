@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211123 / Using Riot Open API](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211123.md)
 - [211122 / Using Riot Open API](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211122.md)
 - [211121 / Using Riot Open API](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211121.md)
 - [211120 / Python A to Z(stdin, stdout, file i/o)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211120.md)
