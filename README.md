@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211208 / Mini Game Making](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211208.md)
 - [211207 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211207.md)
 - [211206 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211206.md)
 - [211203 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211203.md)
