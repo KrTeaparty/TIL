@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211214 / maze making(QThread, Signal, Slot)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211214.md)
 - [211212 / maze making(MouseEvent)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211212.md)
 - [211211 / maze making(QPainter)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211211.md)
 - [211210 / maze making(QPainter)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211210.md)
