@@ -2,9 +2,10 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
-- [211215 / maze making(MousePressEvent, list and dict))](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211215.md)
-- [211214 / maze making(QThread, Signal, Slot)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211214.md)
-- [211212 / maze making(MouseEvent)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211212.md)
+- [211216 / Falling Bricks(Finish))](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211216.md)
+- [211215 / Falling Bricks(MousePressEvent, list and dict))](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211215.md)
+- [211214 / Falling Bricks(QThread, Signal, Slot)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211214.md)
+- [211212 / maze making, falling brick(MouseEvent)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211212.md)
 - [211211 / maze making(QPainter)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211211.md)
 - [211210 / maze making(QPainter)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211210.md)
 - [211209 / Real-time processing, keyPressedEvent](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211209.md)
