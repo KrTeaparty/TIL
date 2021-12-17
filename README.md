@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211217 / Pygame(shape, load image, key and mouse event))](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211217.md)
 - [211216 / Falling Bricks(Finish))](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211216.md)
 - [211215 / Falling Bricks(MousePressEvent, list and dict))](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211215.md)
 - [211214 / Falling Bricks(QThread, Signal, Slot)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211214.md)
