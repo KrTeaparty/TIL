@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211220 / Pygame(battle turn, screen effect)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211220.md)
 - [211219 / Pygame(walking around, battle start, battle message)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211219.md)
 - [211218 / Pygame(maze_making, dugeon_making)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211218.md)
 - [211217 / Pygame(shape, load image, key and mouse event)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211217.md)
