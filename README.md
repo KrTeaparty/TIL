@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211223 / Block Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211223.md)
 - [211222 / Block Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211222.md)
 - [211221 / Pygame(Finish RPG)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211221.md)
 - [211220 / Pygame(battle turn, screen effect)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211220.md)
