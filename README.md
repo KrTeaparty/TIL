@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211226 / Walking dog](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211226.md)
 - [211224 / Block Game(Finish), Walking dog](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211224.md)
 - [211223 / Block Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211223.md)
 - [211222 / Block Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211222.md)
