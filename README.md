@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211228 / Meteor Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211228.md)
 - [211227 / Floor and Wall, Hit check, Trigonometric function](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211227.md)
 - [211226 / Walking dog](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211226.md)
 - [211224 / Block Game(Finish), Walking dog](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211224.md)
