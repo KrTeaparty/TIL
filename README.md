@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [211231 / Dot-Eat Game(New enemy, More stage, Life, Ending)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211231.md)
 - [211230 / Dot-Eat Game(Eat item, Enemy follow me, Draw title, Stage clear, Game over)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211230.md)
 - [211229 / Dot-Eat Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211229.md)
 - [211228 / Meteor Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211228.md)
