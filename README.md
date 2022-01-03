@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220103 / Map editor(click on label, export map data), Pygame(image, key event)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220103.md)
 - [220102 / Map editor(Paint on Label)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220102.md)
 - [211231 / Dot-Eat Game(New enemy, More stage, Life, Ending)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211231.md)
 - [211230 / Dot-Eat Game(Eat item, Enemy follow me, Draw title, Stage clear, Game over)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211230.md)
