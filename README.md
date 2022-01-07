@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220107 / Shooting Game(add se, more enemy, add boss, finish)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220107.md)
 - [220106 / Shooting Game(add_shield, title, game play, game over)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220106.md)
 - [220105 / Shooting Game(add enemy, enemy hit check and explode)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220105.md)
 - [220104 / Shooting Game(scroll bg, fire bullets)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220104.md)
