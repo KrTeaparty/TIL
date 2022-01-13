@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220113 / Racing Game(draw road with curve and updown data, draw objects beside road, add player's car)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220113.md)
 - [220112 / Racing Game(draw road - more realistic move, moving bg)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220112.md)
 - [220111 / Racing Game(draw road - uphill, downhill, turn left, right)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220111.md)
 - [220107 / Shooting Game(add se, more enemy, add boss, finish)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220107.md)
