@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220115 / Game Launcher, Chat Bot(Issues, Terms)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220115.md)
 - [220115 / Racing Game(lap time, goal, finish)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220115.md)
 - [220114 / Racing Game(add COM car, car crash)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220114.md)
 - [220113 / Racing Game(draw road with curve and updown data, draw objects beside road, add player's car)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220113.md)
