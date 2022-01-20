@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220120 / Chat Bot(Dialogflow)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220120.md)
 - [220119 / Chat Bot(Tokenization, Regular expressions)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220119.md)
 - [220118 / Chat Bot(Named-Entity Recognition, Stop Words, Dependency Parsing, Noun Chunks, Finding Similarity)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220118.md)
 - [220117 / Chat Bot(spaCy, POS Tagging, Stemming, Lemmatization)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220117.md)
