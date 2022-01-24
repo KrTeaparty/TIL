@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220124 / Image processing(OpenCV - Rectangle, Polygon, Text, Save file, Resize, Crop image)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220124.md)
 - [220123 / Image processing(OpenCV - Show Image, Show Video, Draw Line, Circle)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220123.md)
 - [220122 / Chat Bot(Rasa NLU)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220122.md)
 - [220121 / Chat Bot(Rasa NLU)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220121.md)
