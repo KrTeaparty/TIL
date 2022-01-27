@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220127 / Image processing(OpenCV - Image Thresholding, Dilation, Erosion, Opening, Closing)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220127.md)
 - [220126 / Image processing(OpenCV - Flip, Rotate, BGR2GRAY, Gaussian Blur, Perspective, Mini Project : Scanner)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220126.md)
 - [220124 / Image processing(OpenCV - Rectangle, Polygon, Text, Save file, Resize, Crop image)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220124.md)
 - [220123 / Image processing(OpenCV - Show Image, Show Video, Draw Line, Circle)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220123.md)
