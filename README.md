@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220130 / Deep Learning from Scratch(Perceptron, Multi-layer Perceptron, Neural Network, Step_function)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220130.md)
 - [220129 / Image processing(OpenCV - Project : Face Detection), Deep Learning from Scratch(matplotlib, Perceptron)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220129.md)
 - [220128 / Image processing(OpenCV - Canny Edge Detection, Find and Draw Contours, Project : Face Detection)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220128.md)
 - [220127 / Image processing(OpenCV - Image Thresholding, Dilation, Erosion, Opening, Closing)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220127.md)
