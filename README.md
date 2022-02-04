@@ -2,6 +2,7 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+- [220204 / Deep Learning from Scratch(Neural Network, Softmax function, MNIST, batch)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220204.md)
 - [220203 / Deep Learning from Scratch(Neural Network, Step function, Sigmoid function, ReLU function, Matrix)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220203.md)
 - [220130 / Deep Learning from Scratch(Perceptron, Multi-layer Perceptron, Neural Network, Step_function)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220130.md)
 - [220129 / Image processing(OpenCV - Project : Face Detection), Deep Learning from Scratch(matplotlib, Perceptron)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220129.md)
