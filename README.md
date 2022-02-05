@@ -2,8 +2,20 @@
 그날 배운 것은 그날 정리해서 기록으로 남기는 것이 목표
 
 ## 기록
+<details>
+<summary>Feb 2022</summary>
+<div markdown="1">
+
+- [220205 / Deep Learning from Scratch(Neural Network, Training, Loss function, SSE, CEE)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220205.md)
 - [220204 / Deep Learning from Scratch(Neural Network, Softmax function, MNIST, batch)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220204.md)
 - [220203 / Deep Learning from Scratch(Neural Network, Step function, Sigmoid function, ReLU function, Matrix)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220203.md)
+
+</div>
+</details>
+<details>
+<summary>Jan 2022</summary>
+<div markdown="1">
+
 - [220130 / Deep Learning from Scratch(Perceptron, Multi-layer Perceptron, Neural Network, Step_function)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220130.md)
 - [220129 / Image processing(OpenCV - Project : Face Detection), Deep Learning from Scratch(matplotlib, Perceptron)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220129.md)
 - [220128 / Image processing(OpenCV - Canny Edge Detection, Find and Draw Contours, Project : Face Detection)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220128.md)
@@ -29,6 +41,13 @@
 - [220104 / Shooting Game(scroll bg, fire bullets)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220104.md)
 - [220103 / Map editor(click on label, export map data), Pygame(image, key event)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220103.md)
 - [220102 / Map editor(Paint on Label)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jan/220102.md)
+
+</div>
+</details>
+<details>
+<summary>Dec 2021</summary>
+<div markdown="1">
+
 - [211231 / Dot-Eat Game(New enemy, More stage, Life, Ending)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211231.md)
 - [211230 / Dot-Eat Game(Eat item, Enemy follow me, Draw title, Stage clear, Game over)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211230.md)
 - [211229 / Dot-Eat Game](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211229.md)
@@ -56,6 +75,13 @@
 - [211203 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211203.md)
 - [211202 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211202.md)
 - [211201 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Dec/211201.md)
+
+</div>
+</details>
+<details>
+<summary>Nov 2021</summary>
+<div markdown="1">
+
 - [211130 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211130.md)
 - [211129 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211129.md)
 - [211128 / Using Riot Open API(match history searcher)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211128.md)
@@ -84,6 +110,13 @@
 - [211103 / Python A to Z(line, docstring, comments, assignment, conditions, loop)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211103.md)
 - [211102 / Python A to Z(variables, object, expression, type)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211102.md)
 - [211101 / Review C(macros, storage class specifier)](https://github.com/KrTeaparty/TIL/blob/master/2021/Nov/211101.md)
+
+</div>
+</details>
+<details>
+<summary>Oct 2021</summary>
+<div markdown="1">
+
 - [211031 / Review C(file io, bubble sort, quick sort)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211031.md)
 - [211030 / Review C(function)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211030.md)
 - [211029 / Review C(function)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211029.md)
@@ -114,3 +147,6 @@
 - [211004 / Data Analysis Tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211004.md)
 - [211003 / Web Crawling, Visualizing(plt.pie)](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211003.md)
 - [211002 / Git, Markdown, Web Crawling tutorial](https://github.com/KrTeaparty/TIL/blob/master/2021/Oct/211002.md)
+
+</div>
+</details>
