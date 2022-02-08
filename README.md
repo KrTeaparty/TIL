@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220208 / Deep Learning from Scratch(Backpropagation, Computational graph, Chain rule)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220208.md)
 - [220207 / Deep Learning from Scratch(Neural Network, Learning algorithm)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220207.md)
 - [220206 / Deep Learning from Scratch(Neural Network, Numerical differentiation, Gradient, Gradient method)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220206.md)
 - [220205 / Deep Learning from Scratch(Neural Network, Training, Loss function, SSE, CEE)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220205.md)
