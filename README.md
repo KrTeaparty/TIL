@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220211 / Deep Learning from Scratch(Weight decay, Gradient vanishing, Weight initialization, Xavier, He)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220211.md)
 - [220210 / Deep Learning from Scratch(Backpropagation, Gradient check, SGD, Momentum, AdaGrad, Adam)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220210.md)
 - [220209 / Deep Learning from Scratch(Backpropagation, ReLU, Sigmoid, Affine, Softmax, CEE)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220209.md)
 - [220208 / Deep Learning from Scratch(Backpropagation, Computational graph, Chain rule)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220208.md)
