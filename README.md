@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220215 / Deep Learning from Scratch(CNN, LeNet, AlexNet)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220215.md)
 - [220214 / Deep Learning from Scratch(CNN, Convolution, Pooling)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220214.md)
 - [220213 / Deep Learning from Scratch(Overfitting, Weight decay, Dropout, Hyperparameter optimization)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220213.md)
 - [220212 / Deep Learning from Scratch(Batch Normalization)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220212.md)
