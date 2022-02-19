@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220219 / RPA(Excel Automation, Desktop Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220219.md)
 - [220218 / RPA(Excel Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220218.md)
 - [220217 / RPA(Excel Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220217.md)
 - [220216 / Deep Learning from Scratch(Deep learning, VGG, GoogLeNet, ResNet, R-CNN, FCN, NIC)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220216.md)
