@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220221 / RPA(Desktop Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220221.md)
 - [220220 / RPA(Desktop Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220220.md)
 - [220219 / RPA(Excel Automation, Desktop Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220219.md)
 - [220218 / RPA(Excel Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220218.md)
