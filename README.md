@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220225 / RPA(Project)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220225.md)
 - [220224 / RPA(Web Automation, Email Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220224.md)
 - [220223 / RPA(Web Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220223.md)
 - [220222 / RPA(Web Automation)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220222.md)
