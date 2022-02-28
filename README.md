@@ -6,6 +6,7 @@
 <summary>Feb 2022</summary>
 <div markdown="1">
 
+- [220228 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220228.md)
 - [220227 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220227.md)
 - [220226 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220226.md)
 - [220225 / RPA(Project)](https://github.com/KrTeaparty/TIL/blob/master/2022/Feb/220225.md)
