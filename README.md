@@ -6,7 +6,7 @@
 <summary>Mar 2022</summary>
 <div markdown="1">
 
-- [220301 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/2200301.md)
+- [220301 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220301.md)
 
 </div>
 </details>
