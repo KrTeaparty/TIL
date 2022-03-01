@@ -3,6 +3,14 @@
 
 ## 기록
 <details>
+<summary>Mar 2022</summary>
+<div markdown="1">
+
+- [220301 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/2200301.md)
+
+</div>
+</details>
+<details>
 <summary>Feb 2022</summary>
 <div markdown="1">
 
