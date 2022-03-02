@@ -6,6 +6,7 @@
 <summary>Mar 2022</summary>
 <div markdown="1">
 
+- [220302 / Java tutorial](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220302.md)
 - [220301 / Clean code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220301.md)
 
 </div>
