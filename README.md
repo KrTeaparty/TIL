@@ -6,6 +6,7 @@
 <summary>Mar 2022</summary>
 <div markdown="1">
 
+- [220319 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220319.md)
 - [220316 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220316.md)
 - [220314 / Python review(Class)](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220314.md)
 - [220313 / SQLite3, Python review(Class)](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220313.md)
