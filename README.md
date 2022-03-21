@@ -6,6 +6,7 @@
 <summary>Mar 2022</summary>
 <div markdown="1">
 
+- [220321 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220321.md)
 - [220320 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220320.md)
 - [220319 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220319.md)
 - [220316 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Mar/220316.md)
