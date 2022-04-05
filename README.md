@@ -3,6 +3,14 @@
 
 ## 기록
 <details>
+<summary>Apr 2022</summary>
+<div markdown="1">
+
+- [220405 / Python Clean Code](https://github.com/KrTeaparty/TIL/blob/master/2022/Apr/220405.md)
+
+</div>
+</details>
+<details>
 <summary>Mar 2022</summary>
 <div markdown="1">
 
