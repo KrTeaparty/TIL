@@ -6,6 +6,7 @@
 <summary>May 2022</summary>
 <div markdown="1">
 
+- [220506 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220506.md)
 - [220504 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220504.md)
 - [220503 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220503.md)
 
