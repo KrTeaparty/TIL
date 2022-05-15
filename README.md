@@ -6,7 +6,12 @@
 <summary>May 2022</summary>
 <div markdown="1">
 
+<<<<<<< HEAD
 - [220515 / Assignment(Prim's Algorithm, Kruskal's Algorithm, Dijkstra's shortes path Algorithm)](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220515.py)
+=======
+- [220510 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220510.md)
+- [220509 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220509.md)
+>>>>>>> c71e7bd9ec650b2562d0a204c98c93bf4d6cf51a
 - [220508 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220508.md)
 - [220507 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220507.md)
 - [220506 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220506.md)
