@@ -6,6 +6,7 @@
 <summary>May 2022</summary>
 <div markdown="1">
 
+- [220524 / Machine Learning with R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220524.md)
 - [220523 / Machine Learning with R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220523.md)
 - [220517 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220517.md)
 - [220516 / R](https://github.com/KrTeaparty/TIL/blob/master/2022/May/220516.md)
