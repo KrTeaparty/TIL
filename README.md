@@ -3,6 +3,14 @@
 
 ## 기록
 <details>
+<summary>June 2022</summary>
+<div markdown="1">
+
+- [220603 / Assignment(B-Tree)](https://github.com/KrTeaparty/TIL/blob/master/2022/Jun/220603.c)
+
+</div>
+</details>
+<details>
 <summary>May 2022</summary>
 <div markdown="1">
 
