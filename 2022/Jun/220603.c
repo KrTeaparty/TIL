@@ -1,5 +1,3 @@
-// DKU Algorithm Assignment 22-06-03
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -8,22 +6,21 @@
 #include <math.h>
 
 #define t 9
-#define max_children t
-#define insert_cnt 1000
-#define del_cnt 500
-#define max_keys max_children-1
-#define min_keys (int)(ceil(t/2.0))-1
+#define max_children (2*t)
+#define insert_cnt 500000
+#define del_cnt 50000
+#define max_keys ((2*t)-1)
+#define min_keys t-1
 
 typedef struct BTreeNode{
     bool leaf;
-    int key[max_keys+1];
+    int key[max_keys];
     int key_cnt;
-    struct BTreeNode* child[max_children+1];
+    struct BTreeNode* child[max_children];
     int child_cnt;
 } BTreeNode;
 
 void Test();
-int Del_Val(int val, BTreeNode* node);
 BTreeNode* InitNode(int val);
 BTreeNode* Split(int idx, BTreeNode* node, BTreeNode* parent);
 BTreeNode* Insert_Node(int parent_pos, int val, BTreeNode* node, BTreeNode* parent);
@@ -52,21 +49,21 @@ void Test() {
     LARGE_INTEGER tickPerSecond;
     LARGE_INTEGER startTick, endTick;
     double dTime;
-    
+
     QueryPerformanceFrequency(&tickPerSecond);
 
     QueryPerformanceCounter(&startTick);
     for(int i=0; i<insert_cnt; i++) {
-        Insert(rand()%10000);
+        Insert(rand() % 10000);
     }
-    printf("Finserting Finished\n");
+    printf("Inserting Finished\n");
     for(int i=0; i<del_cnt; i++) {
-        Delete(root, rand()%10000);
+        Delete(root, rand() % 10000);
     }
     printf("Deleting Finished\n");
     QueryPerformanceCounter(&endTick);
-    dTime = (double)(endTick.QuadPart - startTick.QuadPart) / tickPerSecond.QuadPart;
     
+    dTime = (double)(endTick.QuadPart - startTick.QuadPart) / tickPerSecond.QuadPart;
     printf("Result of t=%d : %lf", t, dTime);
 }
 
@@ -144,7 +141,7 @@ BTreeNode* Insert_Node(int parent_pos, int val, BTreeNode* node, BTreeNode* pare
     }
     if (!node->leaf) {
         node->child[idx] = Insert_Node(idx, val, node->child[idx] ,node);
-        if (node->key_cnt == max_keys +1){
+        if (node->key_cnt == max_keys){
             node = Split(parent_pos, node,parent);
         }
     }
@@ -156,7 +153,7 @@ BTreeNode* Insert_Node(int parent_pos, int val, BTreeNode* node, BTreeNode* pare
 
         node->key[idx] = val;
         node->key_cnt++;
-        if (node->key_cnt == max_keys+1){
+        if (node->key_cnt == max_keys){
             node = Split(parent_pos, node,parent);
         }
     }   
@@ -320,16 +317,16 @@ int Merge_Child(BTreeNode* parent_node, int cur_idx){
 }
 
 
-int Find_Pred(BTreeNode* cur_node){
+int Find_Predecessor(BTreeNode* cur_node){
     int predecessor;
     if (cur_node->leaf){
         return cur_node->key[cur_node->key_cnt-1];
     }
-    return Find_Pred(cur_node->child[(cur_node->child_cnt)-1]);
+    return Find_Predecessor(cur_node->child[(cur_node->child_cnt)-1]);
 }
 
 int Override_Predecessor(BTreeNode* parent_node, int idx_search){
-    int predecessor = Find_Pred(parent_node->child[idx_search]);
+    int predecessor = Find_Predecessor(parent_node->child[idx_search]);
     parent_node->key[idx_search] = predecessor;
     return predecessor;
 }
