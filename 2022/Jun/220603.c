@@ -7,8 +7,8 @@
 
 #define t 9
 #define max_children (2*t)
-#define insert_cnt 500000
-#define del_cnt 50000
+#define insert_cnt 1000
+#define del_cnt 500
 #define max_keys ((2*t)-1)
 #define min_keys t-1
 
